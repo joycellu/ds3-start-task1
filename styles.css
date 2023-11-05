@@ -30,3 +30,8 @@ body {
     font-size: 20px;
     background-color: white;
 }
+
+#itemList {
+    width: 50%;
+    margin: 5vh auto;
+}
