@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400&subset=latin,latin-ext);
+
+body {
+    font-family: 'Raleway';
+    background-color: #BCD4DE;
+}
+
+.gray-box {
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 40%;
+    margin: 5vh auto;
+    padding: 2%;
+    text-align: center;
+    background-color: #949BA0;
+}
+
+.gray-box button {
+    border: 1.25px solid white;
+    border-radius: 7px;
+    padding: 1.5% 4%;
+    font-size: 20px;
+    background-color: #BCD4DE;
+}
+
+.gray-box input {
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 1.5% 4%;
+    font-size: 20px;
+    background-color: white;
+}
