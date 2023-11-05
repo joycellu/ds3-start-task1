@@ -1,3 +1,7 @@
+/* I refer to the "sources" for font, colors, text sizes, 
+and some of the margins/paddings to make my page look more identical. 
+For some others, I tried changing the numbers around to see what the effects are. */
+
 @import url(https://fonts.googleapis.com/css?family=Raleway:400&subset=latin,latin-ext);
 
 body {
