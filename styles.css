@@ -19,7 +19,8 @@ body {
     background-color: #949BA0;
 }
 
-.gray-box button {
+.gray-box button:hover {
+    cursor: pointer;
     border: 1.25px solid white;
     border-radius: 7px;
     padding: 1.5% 4%;
