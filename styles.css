@@ -19,13 +19,16 @@ body {
     background-color: #949BA0;
 }
 
-.gray-box button:hover {
-    cursor: pointer;
+.gray-box button {
     border: 1.25px solid white;
     border-radius: 7px;
     padding: 1.5% 4%;
     font-size: 20px;
     background-color: #BCD4DE;
+}
+
+.gray-box button:hover {
+    cursor: pointer;
 }
 
 .gray-box input {
